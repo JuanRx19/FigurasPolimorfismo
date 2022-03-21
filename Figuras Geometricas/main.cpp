@@ -4,6 +4,6 @@ using namespace std;
 
 int main() {
     View vistaPPAL;
-    std::cout << "Hello, World!" << std::endl;
+    vistaPPAL.menu();
     return 0;
 }

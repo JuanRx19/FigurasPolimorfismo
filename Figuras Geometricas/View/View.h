@@ -11,8 +11,8 @@ using namespace std;
     private:
         vector<Figura*> figuras;
     public:
+        void opcion();
         void menu();
-
 };
 
 
