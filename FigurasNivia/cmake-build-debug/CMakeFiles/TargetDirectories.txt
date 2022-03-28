@@ -1,0 +1,3 @@
+C:/Users/Pc/Documents/Universidad Javeriana/S3/POO/FigurasNivia/cmake-build-debug/CMakeFiles/FigurasGeometricas.dir
+C:/Users/Pc/Documents/Universidad Javeriana/S3/POO/FigurasNivia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pc/Documents/Universidad Javeriana/S3/POO/FigurasNivia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
